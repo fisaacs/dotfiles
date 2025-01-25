@@ -7,3 +7,4 @@ First Updated: Thu Aug  4 21:30:59 2022
 - Desktop:
 - Server:
 # dotfiles
+- test
